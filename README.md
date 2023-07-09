@@ -20,7 +20,7 @@ Full Stack Software Engineer
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/Python" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" width="36" height="36" alt="React" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/npm.svg" width="36" height="36" alt="NPM" /></a>
+<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/npm-square-red-1.svg" width="36" height="36" alt="NPM" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://www.guayerd.com/wp-content/uploads/2021/04/expressjs-logo.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://devcenter.heroku.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width="36" height="36" alt="Heroku" /></a>
