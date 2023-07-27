@@ -5,7 +5,7 @@ Full Stack Software Engineer
 -------------------------------
 
 *   🌍  I'm based in New York, New York
-*   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href=''>Portfolio</a>
+*   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='http://kevininga.netlify.app'>Portfolio</a>
 *   🧠  Currently learning Next.js
 *   🤝  I'm open to collaborating on interesting and exciting projects as a developer
   
