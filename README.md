@@ -1,7 +1,7 @@
 Hi 👋🏼 My name is Kevin Inga
 ===============================
 
-Full Stack Software Engineer
+Full Stack Developer
 -------------------------------
 
 *   🌍  I'm based in New York, New York
