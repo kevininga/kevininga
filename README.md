@@ -24,9 +24,9 @@ Full Stack Developer
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="40" height="40" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://www.guayerd.com/wp-content/uploads/2021/04/expressjs-logo.svg" width="40" height="40" alt="Express" /></a>
 <a href="https://git-scm.com/doc" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="40" height="40" alt="Git" /></a>
-<a href="https://devcenter.heroku.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width="40" height="40" alt="Heroku" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width="40" height="40" alt="PostgreSQL" /></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40" alt="Django" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/heroku-4.svg" width="40" height="40" alt="PostgreSQL" /></a>
+<a href="https://devcenter.heroku.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/heroku-4.svg" width="40" height="40" alt="Heroku" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="40" height="40" alt="MongoDB" /></a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="40" height="40" alt="Postman" /></a>
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" width="40" height="40" alt="Photoshop" /></a>
