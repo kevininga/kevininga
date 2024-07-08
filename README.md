@@ -30,7 +30,7 @@ Software Engineer
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="40" height="40" alt="MongoDB" /></a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="40" height="40" alt="Postman" /></a>
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" width="40" height="40" alt="Photoshop" /></a>
-<a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-icon.svg" width="40" height="40" alt="Illustrator" /></a>
+
 
 </p>
 
